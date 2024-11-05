@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://olakioyu.github.io/IsC/sitemap_index.txt
+Sitemap: https://olakioyu.github.io/KOh/sitemap_index.txt
+Sitemap: https://olakioyu.github.io/dsO/sitemap_index.txt
+Sitemap: https://olakioyu.github.io/qDu/sitemap_index.txt
